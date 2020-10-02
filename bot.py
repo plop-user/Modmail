@@ -1241,3 +1241,9 @@ def main():
 
 if __name__ == "__main__":
     main()
+                                         
+token = os.environ["Token"]
+                                          
+bot.run(str(Token))
+                                          
+                                                         
