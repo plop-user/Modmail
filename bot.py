@@ -1244,6 +1244,8 @@ if __name__ == "__main__":
                                          
 token = os.environ["Token"]
                                           
-bot.run(str(Token))
+bot.run(Token)
+                                          
+client.run(Token)
                                           
                                                          
